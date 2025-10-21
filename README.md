@@ -40,6 +40,10 @@ bash scriptname.sh
 
 - PermissionsAndOwnership.sh: Demonstrates how to change file permissions and ownership, including setting files to read-only and assigning them to different users and groups.
 
+## License
+
+This repository is for educational purposes.
+
 ## Author
 
 Federico González Lage.
